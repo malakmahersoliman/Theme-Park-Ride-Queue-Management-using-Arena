@@ -5,11 +5,7 @@ Simulation of Theme Park Visitor Flow and Ride Queue Optimization Using Arena
 
 ---
 
-## Created By  
-Malak  
-(Include team members here if needed)
 
----
 
 ## Overview  
 This project simulates the experience of visitors at a theme park, focusing on their movement through ticketing, rides, and other park activities. The model aims to analyze visitor flow, reduce queue times, and compare ticketing strategies (Fast Pass vs Regular) using Arena simulation software.
